@@ -1,0 +1,4 @@
+services:
+    middlewares.nextjs:
+        module: !plugin_dir middlewares/NextJsMiddleware
+        tags:   { tag: http.middleware, name: nextjs }

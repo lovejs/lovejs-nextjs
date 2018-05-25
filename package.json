@@ -1,0 +1,21 @@
+{
+    "name": "@lovejs/nextjs",
+    "author": "Vincent <vincent@fullstack.pro>",
+    "version": "0.0.1",
+    "description": "Lovejs nextjs",
+    "main": "src/index.js",
+    "keywords": ["lovejs", "nextjs", "lovejs plugin"],
+    "license": "MIT",
+    "homepage": "http://lovejs.io/",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lovejs/lovejs-nextjs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/lovejs/lovejs-nextjs/issues"
+    },
+    "peerDependencies": {
+        "@lovejs/components": "^0.0.1",
+        "@lovejs/framework": "^0.0.1"
+    }
+}
